@@ -1,0 +1,21 @@
+table{
+    		
+    margin:0 auto;
+    
+}
+
+
+.b{
+    width: 160px;
+    height: 60px;
+    background-color : rgba(138, 27, 27, 0.774);
+    font-size: 1.2em;
+}
+.screen{
+    width: 350px;
+    height: 70px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.13);
+    text-align:right; 
+}
